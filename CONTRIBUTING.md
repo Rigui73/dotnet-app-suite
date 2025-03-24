@@ -103,13 +103,17 @@ The change log format is as follows:
 
 | Tag | Description |
 | ------------------ | ----------------------------------------------------------------------- |
+| `good first issue` | Good for newcomers |
+| `help-wanted` | Community help is appreciated. |
+| `blocked` | Depends on another task before proceeding |
 | `enhancement` | Requests for improvements. |
 | `bug` | Confirmed bugs or reports that are most likely bugs. |
 | `question` | Questions rather than bug reports or feature requests. |
-| `help-wanted` | Community help is appreciated. |
 | `more-information` | More information should be gathered. |
-| `duplicate` | Issues that are duplicates, i.e., have been reported previously. |
+| `documentation` | Improvements or additions to documentation |
 | `invalid` | Issues that are invalid (e.g., user errors). |
+| `duplicate` | Issues that are duplicates, i.e., have been reported previously. |
+| `wontfix` | This will not be worked on |
 
 ## Pull Request
 
@@ -130,7 +134,7 @@ _Do not change the version number; we'll do that ourselves._
 
 | Tag | Description |
 | ----------- | ----------- |
-| `work-in-progress` | Pull requests that are still being worked on; more changes will follow. |
+| `in-progress` | Pull requests that are still being worked on; more changes will follow. |
 | `needs-review` | Pull requests that need code review and maintainer approval. |
 | `under-review` | Pull requests are being reviewed by the core team. |
 | `requires-changes` | Pull requests that need to be updated based on review comments and then reviewed again. |
@@ -149,27 +153,25 @@ _Do not change the version number; we'll do that ourselves._
 
 - The `Add feature` present tense is used.
 - Limit to 72 characters or less. Detailed explanations are in [CHANGELOG.md](/CHANGELOG.md).
-- When only documentation has been changed, include `[doc update]` in the commit title.
 - Consider starting the commit with an emoji:
-- :art: `:art:` when improving code formatting/structure
-- :rocket: `:rocket:` for optimizations or performance improvements.
-- :non-potable_water: `:non-potable_water:` when connecting memory leaks
-- :memo: `:memo:` when writing documents
-- :penguin: `:penguin:` when fixing something on Linux
-- :apple: `:apple:` when fixing something on macOS
-- :checkered_flag: `:checkered_flag:` when fixing something on Windows
-- :bug: `:bug:` when fixing a bug
-- :fire: `:fire:` when removing code or files
-- :green_heart: `:green_heart:` when fixing CI builds
-- :white_check_mark: `:white_check_mark:` when adding tests
-- :lock: `:lock:` when dealing with security
-- :arrow_up: `:arrow_up:` when updating dependencies
-- :arrow_down: `:arrow_down:` when downgrading dependencies
-- :shirt: `:shirt:` when removing linter warnings
-- :recycle: `:recycle:` for refactorings.
-
-✨ for new features.
-🔧 for configuration changes.
+  - :art: `:art:` when improving code formatting/structure and linter warnings
+  - :rocket: `:rocket:` for optimizations or performance improvements
+  - :sparkles: `:sparkles:` for adding new features
+  - :non-potable_water: `:non-potable_water:` when connecting memory leaks
+  - :memo: `:memo:` when only writing or changes documentation
+  - :penguin: `:penguin:` when fixing something on Linux
+  - :apple: `:apple:` when fixing something on macOS
+  - :checkered_flag: `:checkered_flag:` when fixing something on Windows
+  - :bug: `:bug:` when fixing a bug
+  - :fire: `:fire:` when removing code or files
+  - :green_heart: `:green_heart:` when fixing CI builds
+  - :white_check_mark: `:white_check_mark:` when adding tests
+  - :lock: `:lock:` when dealing with security
+  - :arrow_up: `:arrow_up:` when updating dependencies
+  - :arrow_down: `:arrow_down:` when downgrading dependencies
+  - :recycle: `:recycle:` for refactorings
+  
+  - :wrench: `:wrench:` for configuration changes
 
 ### Documentation
 
