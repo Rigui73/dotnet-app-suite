@@ -14,6 +14,7 @@
   - [Requirements](#requirements)
   - [Installation](#installation)
     - [Step 1: Clone the repository](#step-1-clone-the-repository)
+  - [Code of Conduct](#code-of-conduct)
   - [Security](#security)
   - [License](#license)
   - [Versions](#versions)
@@ -54,6 +55,10 @@ To run this project, you'll need the following:
 ```bash
 git clone https://github.com/Rigui73/dotnet-app-suite.git
 ```
+
+## Code of Conduct
+
+Please read [CODE_OF_CONDUCT.md](/.github/CODE_OF_CONDUCT.md) for details on our code of conduct.
 
 ## Security
 
