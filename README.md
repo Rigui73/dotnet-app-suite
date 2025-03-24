@@ -65,15 +65,15 @@ git clone https://github.com/Rigui73/dotnet-app-suite.git
 
 ## Contributions
 
-Please read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details on our process for submitting pull requests.
+Please read [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md) for details on our process for submitting pull requests.
 
 ## Code of Conduct
 
-Please read [CODE_OF_CONDUCT.md](/.github/CODE_OF_CONDUCT.md) for details on our code of conduct.
+Please read [`CODE_OF_CONDUCT.md`](/.github/CODE_OF_CONDUCT.md) for details on our code of conduct.
 
 ## Security
 
-Read [SECURITY.md](/.github/SECURITY.md) to learn about our security policies and how to report vulnerabilities.
+Read [`SECURITY.md`](/.github/SECURITY.md) to learn about our security policies and how to report vulnerabilities.
 
 ## Support
 
@@ -85,8 +85,8 @@ You can also see other funding options in our [`FUNDING.yml`](./.github/FUNDING.
 
 ## License
 
-This project is licensed under the MIT License, See the [LICENSE](./LICENSE) file for more information.
+This project is licensed under the MIT License, See the [`LICENSE`](./LICENSE) file for more information.
 
 ## Versions
 
-View all changes made to the project in the [CHANGELOG.md](/CHANGELOG.md) file.
+View all changes made to the project in the [`CHANGELOG.md`](/CHANGELOG.md) file.
