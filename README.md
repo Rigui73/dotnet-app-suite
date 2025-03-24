@@ -18,6 +18,7 @@
   - [Contributions](#contributions)
   - [Code of Conduct](#code-of-conduct)
   - [Security](#security)
+  - [Support](#support)
   - [License](#license)
   - [Versions](#versions)
 
@@ -73,6 +74,14 @@ Please read [CODE_OF_CONDUCT.md](/.github/CODE_OF_CONDUCT.md) for details on our
 ## Security
 
 Read [SECURITY.md](/.github/SECURITY.md) to learn about our security policies and how to report vulnerabilities.
+
+## Support
+
+If you like this project and want to support it, you can make a donation:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Rigui73)
+
+You can also see other funding options in our [`FUNDING.yml`](./.github/FUNDING.yml) file.
 
 ## License
 
