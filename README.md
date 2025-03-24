@@ -14,6 +14,8 @@
   - [Requirements](#requirements)
   - [Installation](#installation)
     - [Step 1: Clone the repository](#step-1-clone-the-repository)
+  - [Authors](#authors)
+  - [Contributions](#contributions)
   - [Code of Conduct](#code-of-conduct)
   - [Security](#security)
   - [License](#license)
@@ -55,6 +57,14 @@ To run this project, you'll need the following:
 ```bash
 git clone https://github.com/Rigui73/dotnet-app-suite.git
 ```
+
+## Authors
+
+**[Adrià Rigall](https://www.github.com/Rigui73)** - Lead Author
+
+## Contributions
+
+Please read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details on our process for submitting pull requests.
 
 ## Code of Conduct
 
