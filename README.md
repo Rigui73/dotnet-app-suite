@@ -14,6 +14,7 @@
   - [Requirements](#requirements)
   - [Installation](#installation)
     - [Step 1: Clone the repository](#step-1-clone-the-repository)
+  - [Security](#security)
   - [License](#license)
   - [Versions](#versions)
 
@@ -53,6 +54,10 @@ To run this project, you'll need the following:
 ```bash
 git clone https://github.com/Rigui73/dotnet-app-suite.git
 ```
+
+## Security
+
+Read [SECURITY.md](/.github/SECURITY.md) to learn about our security policies and how to report vulnerabilities.
 
 ## License
 
